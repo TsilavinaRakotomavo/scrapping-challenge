@@ -1,0 +1,1957 @@
+{
+  "https://www.nytimes.com/wirecutter/reviews/best-wi-fi-router": {
+    "title": "The Best Wi-Fi Routers",
+    "date": "2025-05-20T12:07:44.000-04:00",
+    "mainImage": "https://cdn.thewirecutter.com/wp-content/media/2024/07/wifirouters-2048px-3591-2x1-1-1.jpg?width=150&quality=20&crop=2:1&auto=webp",
+    "totalImages": 35,
+    "totalProducts": 19,
+    "products": [
+      {
+        "images": 0,
+        "descriptionLength": 14,
+        "buyLinksCount": 0,
+        "buyLinks": []
+      },
+      {
+        "images": 0,
+        "descriptionLength": 90,
+        "buyLinksCount": 2,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-wi-fi-mesh-networking-kits/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/191890/?merchant=Best%20Buy"
+          }
+        ]
+      },
+      {
+        "images": 3,
+        "descriptionLength": 149,
+        "buyLinksCount": 14,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": "$230",
+            "currency": "$",
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": "$199",
+            "currency": "$",
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197960/4/192185?merchant=Walmart"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": "$75",
+            "currency": "$",
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/204449/4/192186?merchant=Best%20Buy"
+          }
+        ]
+      },
+      {
+        "images": 3,
+        "descriptionLength": 396,
+        "buyLinksCount": 18,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/191890/?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": "$230",
+            "currency": "$",
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": "$199",
+            "currency": "$",
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197960/4/192185?merchant=Walmart"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/191892/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": "$75",
+            "currency": "$",
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/204449/4/192186?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/191893/?merchant=Amazon"
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 51,
+        "buyLinksCount": 13,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 195,
+        "buyLinksCount": 4,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/how-wirecutter-makes-money/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/about/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/blog/yes-i-work-at-wirecutter-no-we-dont-get-a-bunch-of-free-stuff/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/why-wirecutter-tests-products-for-years/"
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 255,
+        "buyLinksCount": 2,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-wi-fi-mesh-networking-kits/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 1,
+        "descriptionLength": 419,
+        "buyLinksCount": 4,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://dongknows.com/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "http://www.pcmag.com/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "http://www.smallnetbuilder.com/"
+          }
+        ]
+      },
+      {
+        "images": 6,
+        "descriptionLength": 1470,
+        "buyLinksCount": 23,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/192187?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63100/203473/4/191890/?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-cable-modem/#our-pick-arris-surfboard-s33"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/blog/what-is-gigabit-internet-do-you-need-it/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-portable-hard-drive/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-portable-ssd/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/53966/187040/4/155736/?merchant=TP-Link"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/blog/how-to-limit-video-game-time-with-a-parental-control-firewall/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-wi-fi-extender/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/48433/177126/4/155735/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.tp-link.com/us/easymesh/product-list/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-wi-fi-mesh-networking-kits/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-network-attached-storage/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/guides/simple-online-security/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/blog/how-to-disposable-email-phone-numbers-credit-cards/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.tp-link.com/us/homeshield/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 5,
+        "descriptionLength": 735,
+        "buyLinksCount": 15,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": "$230",
+            "currency": "$",
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/192185?merchant=Amazon"
+          },
+          {
+            "price": "$199",
+            "currency": "$",
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197960/4/192185?merchant=Walmart"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59798/197969/4/191892/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-network-attached-storage/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/do-you-need-wi-fi-7/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-cable-modem/#our-pick-arris-surfboard-s33"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/blog/bad-wifi-solutions/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-wi-fi-mesh-networking-kits/#an-overview-of-the-test-results"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 4,
+        "descriptionLength": 639,
+        "buyLinksCount": 9,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": "$75",
+            "currency": "$",
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/192186?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/204449/4/192186?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42889/168426/4/191893/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 246,
+        "buyLinksCount": 4,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/53632/186456/4/161208/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/67457/211381/4/206086/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/do-you-need-wi-fi-7/"
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 134,
+        "buyLinksCount": 3,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/51880/183214/4/155738/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 91,
+        "buyLinksCount": 2,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.wsj.com/politics/national-security/us-ban-china-router-tp-link-systems-7d7507e6?st=thNF8e&reflink=article_copyURL_share"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.bloomberg.com/news/articles/2024-12-18/us-probes-china-founded-router-maker-on-national-security-fears"
+          }
+        ]
+      },
+      {
+        "images": 4,
+        "descriptionLength": 1345,
+        "buyLinksCount": 8,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://github.com/jimsalterjrs/network-testing"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-usb-wi-fi-adapters/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://support.microsoft.com/en-us/windows/faster-and-more-secure-wi-fi-in-windows-26177a28-38ed-1a8e-7eca-66f24dc63f09"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=74de48a91b0d8010a24eb8c11a4bcbe2"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 1,
+        "descriptionLength": 1196,
+        "buyLinksCount": 10,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/home-garden/smart-home/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-media-streamers/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/blog/modem-vs-router/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-wi-fi-mesh-networking-kits/#what-is-a-mesh-network-and-other-frequently-asked-questions"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.zdnet.com/article/what-is-wi-fi-6-and-why-youre-going-to-want-it/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.networkworld.com/article/3332018/wi-fi-6-with-ofdma-opens-a-world-of-new-wireless-possibilities.html"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.wi-fi.org/system/files/Wi-Fi_6E_Highlights_202112.pdf"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.intel.com/content/www/us/en/products/docs/wireless/wi-fi-7.html"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.wi-fi.org/certification"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 239,
+        "buyLinksCount": 21,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.acer.com/us-en/predator/networking/5g/predator-connect-x7-5g-cpe"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.acer.com/us-en/predator/networking/wi-fi/predator-connect-t7-wifi-7-mesh-router"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.acer.com/us-en/networking/wi-fi/acer-wave-7"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/69598/215228/4/213288/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/71484/219032/4/219247/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/71485/219033/4/219248/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/57267/193177/4/167240/?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/69600/215230/4/213289/?merchant=UniFi"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/69602/215265/4/213290/?merchant=B%26H"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://rog.asus.com/networking/rog-rapture-gt-be19000ai/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/67456/211380/4/206085/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/67457/211381/4/206086/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/69016/214181/4/213312/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/69605/215235/4/213291/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/71486/219034/4/219249/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63609/204374/4/191894/?merchant=Walmart"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/55488/189869/4/161210/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/43145/219626/4/126740/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/55484/189865/4/161205/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/68100/212500/4/208250/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 904,
+        "buyLinksCount": 62,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63613/204451/4/191896/?merchant=B%26H"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/57265/204452/4/167238/?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/69612/215245/4/213292/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/59797/197967/4/178606/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/67455/211379/4/206084/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/67454/211378/4/206083/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63610/204375/4/191895/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/67456/211380/4/206085/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/56044/190879/4/163214/?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/40190/191394/4/119722/?merchant=Asus"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/69616/215266/4/213293/?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/57268/204450/4/167241/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/48468/191389/4/139224/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42283/167577/4/191897/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/26875/140853/4/110787/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/53288/185840/4/155737/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/55490/189871/4/161212/?merchant=Walmart"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/60776/199611/4/181685/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/60777/199612/4/181686/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63616/204385/4/191898/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63618/204387/4/191899/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/63621/204390/4/191900/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/57269/193136/4/167242/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/48467/215785/4/139223/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/55487/189868/4/161209/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/53969/187043/4/155742/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/43146/193185/4/126741/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/53968/187042/4/155741/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.bestbuy.com/site/6522470.p"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/55485/189866/4/161206/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/55489/189870/4/161211/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/60631/199319/4/181683/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/60632/199320/4/181684/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/45191/172127/4/131508/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42272/167566/4/124172/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/45194/172130/4/131511/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42271/167565/4/124187/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/48466/204454/4/139217/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/48469/177172/4/139225/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/40631/165216/4/119725/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42275/204455/4/124175/?merchant=Walmart"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/45190/172126/4/131507/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/45192/204456/4/131509/?merchant=Walmart"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/51427/185802/4/147763/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/40632/165217/4/119726/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42277/167571/4/124177/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/33760/155358/4/119727/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42278/167572/4/124178/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42279/167573/4/124179/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/26874/140844/4/119736/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/51426/182151/4/147762/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/40630/165215/4/119724/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/42281/167575/4/124181/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/45193/172129/4/131510/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/53967/187041/4/155740/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/45188/173464/4/131505/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/55486/189867/4/161207/?merchant=Best%20Buy"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/40634/165219/4/119729/?merchant=Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/out/link/51425/182150/4/147761/?merchant=Amazon"
+          }
+        ]
+      },
+      {
+        "images": 4,
+        "descriptionLength": 137,
+        "buyLinksCount": 8,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/lists/the-gear-to-get-reliable-wi-fi-in-any-home/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/lists/the-gear-to-get-reliable-wi-fi-in-any-home/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/do-you-need-wi-fi-7/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/do-you-need-wi-fi-7/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/hide-wifi-router-maintain-signal/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/hide-wifi-router-maintain-signal/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-usb-wi-fi-adapters/"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.nytimes.com/wirecutter/reviews/best-usb-wi-fi-adapters/"
+          }
+        ]
+      }
+    ]
+  },
+  "https://mashable.com/article/june-5-dreame-l10s-robot-vacuum-deal": {
+    "title": "The Dreame L10s robot vacuum just reached its lowest price — over $200 off at Amazon",
+    "date": "2025-06-05T15:28:25+00:00",
+    "mainImage": "https://helios-i.mashable.com/imagery/articles/070uqV8ire4k1PmUxx5MhMJ/hero-image.fill.size_1200x675.v1749136052.png",
+    "totalImages": 26,
+    "totalProducts": 9,
+    "products": [
+      {
+        "images": 4,
+        "descriptionLength": 598,
+        "buyLinksCount": 29,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal&text=The+Dreame+L10s+robot+vacuum+just+reached+its+lowest+price+%E2%80%94+over+%24200+off+at+Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://share.flipboard.com/bookmarklet/popout?v=2&url=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal&title=The+Dreame+L10s+robot+vacuum+just+reached+its+lowest+price+%E2%80%94+over+%24200+off+at+Amazon"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com/about/deals-coverage-explained"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://zdcs.link/aBgdXE?pageview_type=Standard&template=article&module=content_body&element=offer&item=text-link&element_label=Dreame%20L10S%20robot%20vacuum&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ&short_url=aBgdXE&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://zdcs.link/aMJVPm?pageview_type=Standard&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ&short_url=aMJVPm&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://zdcs.link/aMJVPm?pageview_type=Standard&template=article&module=shop-card&element=offer&item=title&element_label=Dreame%20L10S%20Ultra%20robot%20vacuum&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ&short_url=aMJVPm&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://zdcs.link/aMJVPm?pageview_type=Standard&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ&short_url=aMJVPm&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com/roundup/best-vacuum-cleaner"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com/article/shark-vs-dyson"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com/roundup/best-robot-vacuums"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://zdcs.link/aMJVPm?pageview_type=Standard&template=article&module=content_body&element=offer&item=text-link&element_label=Dreame%20L10S%20Ultra%20robot%20vacuum&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ&short_url=aMJVPm&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://camelcamelcamel.com/product/B0DHGLKY1N"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.ziffdavis.com/terms-of-use"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.ziffdavis.com/ztg-privacy-policy"
+          },
+          {
+            "price": "$180",
+            "currency": "$",
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://zdcs.link/aMJVPm?pageview_type=Standard&template=article&module=content_body&element=offer&item=text-link&element_label=Dreame%20L10S%20Ultra%20robot%20vacuum&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ&short_url=aMJVPm&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://cc.mashable.com/v1/otc/03bCs1jQxEftXGkZ7A6Km1e?merchant=05kie42h3YvHwjr4G1w80Qq&url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01N7ENHO6&template=article&module=offer-group&element=offer-group&item=offer-title&position=1&element_label=Skylight+Frame+10-inch+Digital+Picture+Frame&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal&group_uuid=0029DaHDZm9v8kf5hsIOCd2&product_uuid=05H7x1KwhD0vBEuID5BuYLk&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://cc.mashable.com/v1/otc/03bCs1jQxEftXGkZ7A6Km1e?merchant=05kie42h3YvHwjr4G1w80Qq&url=https%3A%2F%2Fwww.amazon.com%2FNinja-Microwave-Dishwasher-Containers-FN101GY%2Fdp%2FB0DDDD8WD6&template=article&module=offer-group&element=offer-group&item=offer-title&position=2&element_label=Ninja+Crispi+Air+Fryer&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal&group_uuid=0029DaHDZm9v8kf5hsIOCd2&product_uuid=05PTm47d4IuAEz0spiE8mIq&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://cc.mashable.com/v1/otc/03bCs1jQxEftXGkZ7A6Km1e?merchant=05kie42h3YvHwjr4G1w80Qq&url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BB6997V1%3Fth%3D1&template=article&module=offer-group&element=offer-group&item=offer-title&position=3&element_label=Birdfy+AI+Smart+Solar+Powered+Bird+Feeder+with+Camera&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal&group_uuid=0029DaHDZm9v8kf5hsIOCd2&product_uuid=04xwaGrRXOjjg3OOiOr5tyB&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://cc.mashable.com/v1/otc/03bCs1jQxEftXGkZ7A6Km1e?merchant=05kie42h3YvHwjr4G1w80Qq&url=https%3A%2F%2Fwww.amazon.com%2FKitchenAid-Artisan-Quart-Stand-Porcelain%2Fdp%2FB0C59MGW5J%3Fref%3Ddlx_winte_dg_dcl_B0C59MGW5J_dt_sl14_9a%26pf_rd_r%3D6E9TDDPKZ6T91T8P2QGR%26pf_rd_p%3D1a87e8f1-69fc-44a4-b8a1-aba984815c9a%26th%3D1&template=article&module=offer-group&element=offer-group&item=offer-title&position=4&element_label=KitchenAid+Artisan+Series+5-Quart+Tilt+Head+Stand+Mixer&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal&group_uuid=0029DaHDZm9v8kf5hsIOCd2&product_uuid=07tlVy7wUTlnlyVRXnriuEb&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://cc.mashable.com/v1/otc/03bCs1jQxEftXGkZ7A6Km1e?merchant=05kie42h3YvHwjr4G1w80Qq&url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DCFNZF32&template=article&module=offer-group&element=offer-group&item=offer-title&position=5&element_label=Eufy+Omni+C20+Robot+Vacuum+and+Mop+With+Self-Emptying+Base&u=https%3A%2F%2Fmashable.com%2Farticle%2Fjune-5-dreame-l10s-robot-vacuum-deal&group_uuid=0029DaHDZm9v8kf5hsIOCd2&product_uuid=07IQT1SNRsvygVIxVVSqED0&object_type=article&object_uuid=070uqV8ire4k1PmUxx5MhMJ"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com/category/robot-vacuums"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com/category/vacuums"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.linkedin.com/in/samantharosemangino"
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 3,
+        "buyLinksCount": 2,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 49,
+        "buyLinksCount": 2,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.ziffdavis.com/terms-of-use"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.ziffdavis.com/ztg-privacy-policy"
+          }
+        ]
+      },
+      {
+        "images": 0,
+        "descriptionLength": 4,
+        "buyLinksCount": 2,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com/category/robot-vacuums"
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://mashable.com/category/vacuums"
+          }
+        ]
+      },
+      {
+        "images": 1,
+        "descriptionLength": 65,
+        "buyLinksCount": 1,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": "https://www.linkedin.com/in/samantharosemangino"
+          }
+        ]
+      },
+      {
+        "images": 20,
+        "descriptionLength": 277,
+        "buyLinksCount": 30,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": "$100",
+            "currency": "$",
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 20,
+        "descriptionLength": 277,
+        "buyLinksCount": 30,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": "$100",
+            "currency": "$",
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 10,
+        "descriptionLength": 150,
+        "buyLinksCount": 15,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": "$100",
+            "currency": "$",
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      },
+      {
+        "images": 10,
+        "descriptionLength": 127,
+        "buyLinksCount": 15,
+        "buyLinks": [
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          },
+          {
+            "price": null,
+            "currency": null,
+            "url": null
+          }
+        ]
+      }
+    ]
+  },
+  "https://edition.cnn.com/cnn-underscored/deals/best-early-labor-day-sales-2025-08-11": null,
+  "https://edition.cnn.com/cnn-underscored/reviews/best-smart-plug": null
+}
